@@ -1,4 +1,4 @@
-package com.github.darmoise.springbppexample.util.aspect;
+package com.github.darmoise.springbppaopexample.util.aspect;
 
 import lombok.extern.slf4j.Slf4j;
 import org.aspectj.lang.annotation.After;
@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class CustomAspect {
 
-    @Pointcut("@annotation(com.github.darmoise.springbppexample.util.annotation.AspectAnnotation)") // по аннотации определяем за каким методом следить
+    @Pointcut("@annotation(com.github.darmoise.springbppaopexample.util.annotation.AspectAnnotation)") // по аннотации определяем за каким методом следить
     //@Pointcut("execution(public * com.github.darmoise.springbppexample.service.UserService.getUser())") // по названию метода
     public void callAtGetUser() { }
 

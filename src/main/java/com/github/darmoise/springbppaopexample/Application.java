@@ -1,4 +1,4 @@
-package com.github.darmoise.springbppexample;
+package com.github.darmoise.springbppaopexample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

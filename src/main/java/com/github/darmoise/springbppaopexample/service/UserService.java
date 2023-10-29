@@ -1,9 +1,9 @@
-package com.github.darmoise.springbppexample.service;
+package com.github.darmoise.springbppaopexample.service;
 
-import com.github.darmoise.springbppexample.dto.UserDto;
-import com.github.darmoise.springbppexample.util.HashGenerator;
-import com.github.darmoise.springbppexample.util.annotation.AspectAnnotation;
-import com.github.darmoise.springbppexample.util.annotation.InjectRandomEmail;
+import com.github.darmoise.springbppaopexample.dto.UserDto;
+import com.github.darmoise.springbppaopexample.util.HashGenerator;
+import com.github.darmoise.springbppaopexample.util.annotation.AspectAnnotation;
+import com.github.darmoise.springbppaopexample.util.annotation.InjectRandomEmail;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;
 import org.springframework.context.annotation.Scope;
