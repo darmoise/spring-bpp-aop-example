@@ -1,5 +1,7 @@
-package com.github.darmoise.springbppexample.util;
+package com.github.darmoise.springbppexample.util.bpp;
 
+import com.github.darmoise.springbppexample.util.RandomEmailUtil;
+import com.github.darmoise.springbppexample.util.annotation.InjectRandomEmail;
 import java.lang.reflect.Field;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.BeanPostProcessor;
@@ -20,11 +22,6 @@ public class InjectRandomEmailBeanPostProcessor implements BeanPostProcessor {
             }
         }
 
-        return bean;
-    }
-
-    @Override
-    public Object postProcessAfterInitialization(Object bean, String beanName) throws BeansException {
         return bean;
     }
 }
