@@ -1,7 +1,7 @@
-package com.github.darmoise.springbppexample.util.bpp;
+package com.github.darmoise.springbppaopexample.util.bpp;
 
-import com.github.darmoise.springbppexample.util.RandomEmailUtil;
-import com.github.darmoise.springbppexample.util.annotation.InjectRandomEmail;
+import com.github.darmoise.springbppaopexample.util.RandomEmailUtil;
+import com.github.darmoise.springbppaopexample.util.annotation.InjectRandomEmail;
 import java.lang.reflect.Field;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.BeanPostProcessor;

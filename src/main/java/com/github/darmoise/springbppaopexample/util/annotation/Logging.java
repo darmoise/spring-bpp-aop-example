@@ -1,4 +1,4 @@
-package com.github.darmoise.springbppexample.util.annotation;
+package com.github.darmoise.springbppaopexample.util.annotation;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

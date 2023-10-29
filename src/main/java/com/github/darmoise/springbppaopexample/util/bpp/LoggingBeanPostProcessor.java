@@ -1,6 +1,6 @@
-package com.github.darmoise.springbppexample.util.bpp;
+package com.github.darmoise.springbppaopexample.util.bpp;
 
-import com.github.darmoise.springbppexample.util.annotation.Logging;
+import com.github.darmoise.springbppaopexample.util.annotation.Logging;
 import java.lang.reflect.Proxy;
 import java.util.Arrays;
 import java.util.HashMap;

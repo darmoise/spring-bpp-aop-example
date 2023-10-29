@@ -1,4 +1,4 @@
-package com.github.darmoise.springbppexample.util;
+package com.github.darmoise.springbppaopexample.util;
 
 import org.apache.commons.lang3.RandomStringUtils;
 

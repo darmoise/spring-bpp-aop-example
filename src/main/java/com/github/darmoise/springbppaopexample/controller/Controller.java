@@ -1,7 +1,7 @@
-package com.github.darmoise.springbppexample.controller;
+package com.github.darmoise.springbppaopexample.controller;
 
-import com.github.darmoise.springbppexample.dto.UserDto;
-import com.github.darmoise.springbppexample.service.UserService;
+import com.github.darmoise.springbppaopexample.dto.UserDto;
+import com.github.darmoise.springbppaopexample.service.UserService;
 import java.util.List;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;

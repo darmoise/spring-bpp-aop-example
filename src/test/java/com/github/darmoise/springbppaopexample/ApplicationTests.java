@@ -1,4 +1,4 @@
-package com.github.darmoise.springbppexample;
+package com.github.darmoise.springbppaopexample;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

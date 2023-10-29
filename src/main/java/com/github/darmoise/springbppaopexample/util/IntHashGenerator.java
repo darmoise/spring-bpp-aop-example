@@ -1,6 +1,6 @@
-package com.github.darmoise.springbppexample.util;
+package com.github.darmoise.springbppaopexample.util;
 
-import com.github.darmoise.springbppexample.util.annotation.Logging;
+import com.github.darmoise.springbppaopexample.util.annotation.Logging;
 
 @Logging
 public class IntHashGenerator implements HashGenerator<Integer> {

@@ -1,7 +1,7 @@
-package com.github.darmoise.springbppexample.config;
+package com.github.darmoise.springbppaopexample.config;
 
-import com.github.darmoise.springbppexample.util.HashGenerator;
-import com.github.darmoise.springbppexample.util.IntHashGenerator;
+import com.github.darmoise.springbppaopexample.util.HashGenerator;
+import com.github.darmoise.springbppaopexample.util.IntHashGenerator;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
